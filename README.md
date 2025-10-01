@@ -1,6 +1,6 @@
 <h2 align="center">
   Portfolio Website - v2.0<br/>
-  <a href="https://portfolioabhishek-psi.vercel.app/" target="_blank">abhishek.tech</a>
+  <a href="https://portfolioabhishek-tau.vercel.app/" target="_blank">abhishek.tech</a>
 </h2>
 
 <br/>
@@ -28,7 +28,7 @@ You can fork this repo to modify and make changes of your own. Please give me pr
 
 ## Built With
 
-My personal portfolio <a href="https://portfolioabhishek-psi.vercel.app/" target="_blank">abhishek.tech</a> which features some of my github projects as well as my resume and technical skills.<br/>
+My personal portfolio <a href="https://portfolioabhishek-tau.vercel.app/" target="_blank">abhishek.tech</a> which features some of my github projects as well as my resume and technical skills.<br/>
 
 This project was built using these technologies.
 
