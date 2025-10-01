@@ -27,9 +27,11 @@ function Projects() {
             <ProjectCard
               imgPath={studynotion}
               isBlog={false}
-              title="Study-Notion"
-              description="StudyNotion is a comprehensive e-learning platform designed to make education accessible and engaging. It offers a diverse range of courses, interactive learning tools, and expert-led tutorials tailored to meet the needs of students and professionals. With features like progress tracking and community support, StudyNotion fosters a collaborative and personalized learning experience."
-              ghLink="https://github.com/gaurav1603/Study-Notion"
+              title="SQL Data Analysis of Netflix Content"
+              description="Analyzed Netflix’s movies and TV shows dataset using SQL to extract insights on content distribution, ratings, and
+              geographical trends. Developed SQL queries to identify the most common ratings, top content-producing countries, and the longest movies. 
+              Presented findings to inform content strategy and enhance understanding of regional content distribution."
+              ghLink="https://github.com/igabhi04/Netflix-Prime-Hotstar-Dashboard-Power-BI"
               // demoLink="https://chatify-49.web.app/"
             />
           </Col>
@@ -38,14 +40,16 @@ function Projects() {
             <ProjectCard
               imgPath={eye}
               isBlog={false}
-              title="Third-Eye"
-              description="Third Eye is an innovative forensic analysis tool designed for enhanced facial recognition and sketch-based identification. It leverages advanced AI algorithms to process and analyze forensic sketches, aiding law enforcement in identifying individuals quickly and accurately. Third Eye streamlines investigations by providing intuitive insights and improving the efficiency of criminal profiling."
-              ghLink="https://github.com/gaurav1603/Third-Eye"
+              title="Super Store Annual Sales Report"
+              description="Built an interactive Power BI dashboard to track KPIs like sales, profit, and customer trends. Enabled stakeholders to
+explore data dynamically through filters and slicers. Cleaned and transformed raw data using Power Query and structured it into an efficient star schema. Ensured optimized
+performance and clarity in data relationships."
+              ghLink="https://github.com/igabhi04/Power-Bi-Superstore-Sales"
               // demoLink="https://blogs.soumya-jit.tech/"
             />
           </Col>
 
-          <Col md={4} className="project-card">
+          {/* <Col md={4} className="project-card">
             <ProjectCard
               imgPath={editor}
               isBlog={false}
@@ -54,13 +58,13 @@ function Projects() {
               // ghLink="https://github.com/gaurav1603/Editor.io"
               // demoLink="https://editor.soumya-jit.tech/"              
             />
-          </Col>
+          </Col> */}
           <Col md={4} className="project-card">
             <ProjectCard
               imgPath={facial1}
               isBlog={false}
-              title="Facial Recognition Attendance System"
-              description="The Facial Recognition Attendance System is a cutting-edge solution that automates attendance tracking using facial recognition technology. It captures and verifies facial data in real-time, ensuring accurate and efficient attendance management. This system eliminates the need for manual processes, enhances security, and provides seamless integration with organizational databases for easy reporting and analytics."
+              title="Road Accident Analysis Dashboard"
+              description="Designed an interactive Road Accident Analysis Dashboard to visualize accident trends, identify high-risk factors, and support data-driven road safety decisions."
               // ghLink="https://github.com/gaurav1603/Plant_AI"
               // demoLink="https://plant49-ai.herokuapp.com/"
             />
